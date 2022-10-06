@@ -3,5 +3,5 @@
 # Source Code Info
 - Free
 # Demo
-- https://lexusfakee.duckdns.org
+- https://lexusfakee.duckdns.org/demo.html
 
